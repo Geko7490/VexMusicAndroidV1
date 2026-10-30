@@ -1,0 +1,2 @@
+-keep class com.vexmusic.player.** { *; }
+-keep class androidx.media3.** { *; }
